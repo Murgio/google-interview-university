@@ -126,7 +126,7 @@ When I started this project, I didn't know a stack from a heap, didn't know Big-
 traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
 Every data structure I've ever used was built into the language, and I didn't know how they worked
 under the hood at all. I've never had to manage memory, unless a process I was running would give an "out of
-memory" error, and then I'd have to find a workaround. I've used a few multi-dimensional arrays in my life and
+memory" error, and then I'd have to find a workaround. I've used a few multidimensional arrays in my life and
 thousands of associative arrays, but I've never created data structures from scratch.
 
 But after going through this study plan I have high confidence I'll be hired. It's a long plan. It's going to take me
@@ -214,7 +214,7 @@ I'm on the journey, too. Follow along on my blog at [GoogleyAsHeck.com](https://
 Some videos are available only by enrolling in a Coursera, EdX, or Lynda.com class. These are called MOOCs.
 Sometimes the classes are not in session so you have to wait a couple of months, so you have no access. Lynda.com courses are not free.
 
-    I'd appreciate your help adding free and always-available public sources, such as YouTube videos to accompany the online course videos. 
+    I'd appreciate your help to add free and always-available public sources, such as YouTube videos to accompany the online course videos. 
     I like using university lectures.
 
 
@@ -231,6 +231,10 @@ Sometimes the classes are not in session so you have to wait a couple of months,
         - all the things he mentions that you need to know are listed below
     - [ ] _(very dated)_ [How To Get A Job At Google, Interview Questions, Hiring Process](http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html)
     - [ ] [Phone Screen Questions](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
+
+- [ ] Prep Courses:
+    - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed): 
+        - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
 
 - [ ] Additional (not suggested by Google but I added):
     - [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
@@ -287,7 +291,7 @@ through my notes and making flashcards so I could review (see below).
 To solve the problem, I made a little flashcards site where I could add flashcards of 2 types: general and code.
 Each card has different formatting.
 
-I made a mobile-first website so I could review on my phone and tablet, whereever I am.
+I made a mobile-first website so I could review on my phone and tablet, wherever I am.
 
 Make your own for free:
 
@@ -300,7 +304,7 @@ your brain.
 
 ### 3. Review, review, review
 
-I keep a set of cheatsheets on ASCII, OSI stack, Big-O notations, and more. I study them when I have some spare time.
+I keep a set of cheat sheets on ASCII, OSI stack, Big-O notations, and more. I study them when I have some spare time.
 
 Take a break from programming problems for a half hour and go through your flashcards.
 
@@ -1332,7 +1336,7 @@ Have a story, not just data, about something you accomplished.
     Some of mine (I already may know answer to but want their opinion or team perspective):
 
 - How large is your team?
-- What is your dev cycle look like? Do you do waterfall/sprints/agile?
+- What does your dev cycle look like? Do you do waterfall/sprints/agile?
 - Are rushes to deadlines common? Or is there flexibility?
 - How are decisions made in your team?
 - How many meetings do you have per week?
@@ -1632,7 +1636,7 @@ You're never really done.
     - [ ] [Google Developers' Machine Learning Recipes (Scikit Learn & Tensorflow) (video)](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
     - [ ] [Tensorflow (video)](https://www.youtube.com/watch?v=oZikw5k_2FM)
     - [ ] [Tensorflow Tutorials](https://www.tensorflow.org/versions/r0.11/tutorials/index.html)
-    - [ ] [Practical Guide to implementing Neural Networks in Python](using Theano)])http://www.analyticsvidhya.com/blog/2016/04/neural-networks-python-theano/)
+    - [ ] [Practical Guide to implementing Neural Networks in Python (using Theano)](http://www.analyticsvidhya.com/blog/2016/04/neural-networks-python-theano/)
     - Courses:
         - [Great starter course: Machine Learning](https://www.coursera.org/learn/machine-learning)
               - [videos only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
@@ -1714,7 +1718,7 @@ Sit back and enjoy. "netflix and skill" :P
 
 - [ ] [UC Berkeley 61B (Spring 2014): Data Structures (25 videos)](https://www.youtube.com/watch?v=mFPmKGIrQs4&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd)
 
-- [ ] [UC Berkeley 61B (Fall 2006): Data Structures (39 videos)]( https://www.youtube.com/playlist?list=PL4BBB74C7D2A1049C)
+- [ ] [UC Berkeley 61B (Fall 2006): Data Structures (39 videos)](https://www.youtube.com/playlist?list=PL4BBB74C7D2A1049C)
 
 - [ ] [UC Berkeley 61C: Machine Structures (26 videos)](https://www.youtube.com/watch?v=gJJeUFyuvvg&list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
     
@@ -1742,7 +1746,7 @@ Sit back and enjoy. "netflix and skill" :P
 
 - [ ] [MIT 6.854: Advanced Algorithms, Spring 2016 (24 videos)](https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c)
 
-- [ ] [HARVARD COMPSCI 224: Advanced Algorithms (25 videos)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
+- [ ] [Harvard COMPSCI 224: Advanced Algorithms (25 videos)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
 
 - [ ] [MIT 6.858 Computer Systems Security, Fall 2014](https://www.youtube.com/watch?v=GqmQg-cszw4&index=1&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
 
